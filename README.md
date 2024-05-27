@@ -1,4 +1,3 @@
-[![Django CI](https://github.com/Wladimir3984/PROYECTO_BIMESTRE_PROGRAMACION_WEB/actions/workflows/pipeline.yml/badge.svg)](https://github.com/Wladimir3984/PROYECTO_BIMESTRE_PROGRAMACION_WEB/actions/workflows/pipeline.yml)
 # GameSite
 
 Welcome to GameSite, a video game store where you can find games from different categories. We are proud to present our project to you.
@@ -17,8 +16,8 @@ This repository is used to track our work during the bimester.
 
 ### Team Members
 
-- DANIEL IGNACIO BARRIGA MOLINA
-- WLADIMIR ISAAC URZUA CALDERON
+- DANIEL B.
+- WLADIMIR U.
 
 ## Get Access to Our API
 
